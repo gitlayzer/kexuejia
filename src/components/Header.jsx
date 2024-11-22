@@ -12,7 +12,7 @@ function Header() {
           className="flex items-center"
         >
           <img src="/logo.svg" alt="Logo" className="h-8 w-auto" />
-          <span className="ml-2 text-xl font-bold text-gradient">优学课堂</span>
+          <span className="ml-2 text-xl font-bold text-gradient">课学家</span>
         </motion.div>
         <motion.button 
           initial={{ opacity: 0, x: 20 }}
